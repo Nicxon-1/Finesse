@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Indomaret",
+    "category": "Belanja",
+    "amount": -85000,
+    "type": "out"
+  },
+  {
+    "id": 2,
+    "name": "Gaji freelance",
+    "category": "Pemasukan",
+    "amount": 500000,
+    "type": "inn"
+  },
+  {
+    "id": 3,
+    "name": "Makan siang",
+    "category": "Makanan",
+    "amount": -32000,
+    "type": "out"
+  },
+  {
+    "id": 4,
+    "name": "Beli rumah",
+    "category": "Kategori Baru",
+    "amount": 5000,
+    "type": "inn"
+  },
+  {
+    "id": 5,
+    "name": "KOPI",
+    "category": "Kategori Baru",
+    "amount": 5000,
+    "type": "inn"
+  },
+  {
+    "id": 6,
+    "name": "Beli kOpi",
+    "category": "Kategori Baru",
+    "amount": 5000,
+    "type": "inn"
+  },
+  {
+    "id": 7,
+    "name": "beli susu",
+    "category": "Kategori Baru",
+    "amount": -2500,
+    "type": "out"
+  },
+  {
+    "id": 8,
+    "name": "jrkr",
+    "category": "Kategori Baru",
+    "amount": 500000,
+    "type": "inn"
+  },
+  {
+    "id": 9,
+    "name": "beli rumah",
+    "category": "Kategori Baru",
+    "amount": 500000,
+    "type": "inn"
+  },
+  {
+    "id": 10,
+    "name": "beli kopi",
+    "category": "Kategori Baru",
+    "amount": 50000,
+    "type": "inn"
+  },
+  {
+    "id": 11,
+    "name": "Beli Kopi",
+    "category": "Kategori Baru",
+    "amount": 50001,
+    "type": "inn"
+  },
+  {
+    "id": 12,
+    "name": "Beli Kopi",
+    "category": "Kategori Baru",
+    "amount": 500000,
+    "type": "inn"
+  }
+]
